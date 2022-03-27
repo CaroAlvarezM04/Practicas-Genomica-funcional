@@ -1,0 +1,7 @@
+filename	cell	type	name
+th1_ko1.cel	th1	ko	ko1
+th1_ko2.cel	th1	ko	ko2
+th1_ko3.cel	th1	ko	ko3
+th1_wt1.cel	th1	wt	wt1
+th1_wt2.cel	th1	wt	wt2
+th1_wt3.cel	th1	wt	wt3
